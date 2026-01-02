@@ -25,14 +25,6 @@ This project brings the playground classic to your browser. The user selects the
 - **CSS3**: Styling for buttons, animations, and responsive layout.
 - **JavaScript (ES6)**: Game logic, DOM manipulation, and random computer choice generation.
 
-## 📸 Screenshots
-
-| Game Start | Player Win | Computer Win |
-|:---:|:---:|:---:|
-| | | |
-
-*(Tip: Drag and drop your screenshots into the GitHub issue/comment box to generate URLs, then paste them here.)*
-
 ## 📦 How to Run
 
 Since this project consists of static web files, you don't need to install any complex dependencies.
